@@ -22,7 +22,7 @@ Food Express is a restaurant discovery app built using React, designed to showca
 
 ## Demo
 
-Check out the live demo here: [](https://zomato-mmp.vercel.app/)
+Check out the live demo here: https://zomato-mmp.vercel.app/
 
 ## Installation
 
