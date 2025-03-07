@@ -1,6 +1,6 @@
 # Zomato clone
 
-Food Express is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Swiggy's live API, enabling a seamless user experience with a config-driven UI 
+Zomato is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Swiggy's live API, enabling a seamless user experience with a config-driven UI 
 ## Key Features
 
 - **Swiggy API Integration**: Fetches and displays live restaurant data.
@@ -29,7 +29,7 @@ Check out the live demo here: https://zomato-mmp.vercel.app/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Abhay-04/Zwiggato.git
+   https://github.com/Meghss-10/Zomato.git
 
    ```
 
