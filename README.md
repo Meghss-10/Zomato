@@ -1,6 +1,6 @@
 # Zomato clone
 
-Zomato is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Swiggy's live API, enabling a seamless user experience with a config-driven UI 
+Zomato is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Zomato's live API, enabling a seamless user experience with a config-driven UI 
 ## Key Features
 
 - **Swiggy API Integration**: Fetches and displays live restaurant data.
